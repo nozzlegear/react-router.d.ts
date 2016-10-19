@@ -1,0 +1,24 @@
+{
+  "name": "@types/react-router",
+  "version": "1.0.0",
+  "description": "A Typescript definition for react-router v4.",
+  "main": "react-router.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozzlegear/react-router.d.ts.git"
+  },
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzlegear/react-router.d.ts/issues"
+  },
+  "homepage": "https://github.com/nozzlegear/react-router.d.ts#readme",
+  "typescript": {
+    "definitions": [
+      "react-router.d.ts"
+    ]
+  }
+}
